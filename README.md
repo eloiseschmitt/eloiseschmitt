@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:computer: Currently on assignment at Atixnet Bordeaux for projects around JavaScript, youhou !! :v:
+
 <!--
 **eloiseschmitt/eloiseschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
