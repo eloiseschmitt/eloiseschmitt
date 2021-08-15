@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:computer:  Currently on assignment at [Atixnet](https://www.atixnet.fr/) Bordeaux for projects around JavaScript, Drupal & Symfony, youhou !! :v:
+:computer:  Currently on assignment at [Wedge-digital](https://wedge-digital.com/) Bordeaux for projects around Python & Javascript, youhou !! :v:
 
 <!--
 **eloiseschmitt/eloiseschmitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
